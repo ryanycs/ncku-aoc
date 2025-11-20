@@ -8,7 +8,8 @@
 - [Lab 4 - Runtime and Performance Profiling](https://ryanycs.github.io/NCKU-AoC/Lab4_Runtime_and_Performance_Analysis.html)
 - [Lab 5 - AI Compiler](https://ryanycs.github.io/NCKU-AoC/Lab5_AI_Compiler.html)
 
-> :warning: This repository only contains the section that needs to be completed by students. To run the labs, you need to download the lab files from the release page, and replace the directory with the one in this repository.
+> [!Warning]
+> This repository only contains the section that needs to be completed by students. To run the labs, you need to download the lab files from the release page, and replace the directory with the one in this repository.
 
 ## Final Project
 
