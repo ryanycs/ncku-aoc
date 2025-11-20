@@ -1,5 +1,6 @@
 `include "define.svh"
 `define MAX_CH 4
+
 module PE (
     input clk,
     input rst,
@@ -31,7 +32,7 @@ typedef enum logic [2:0] {
 } state_t;
 
 // state reg
-logic [2:0] state, next_state;
+state_t state, next_state;
 
 // spad
 logic signed [`IFMAP_SIZE-1:0]  ifmap_spad  [`IFMAP_SPAD_LEN-1:0];
